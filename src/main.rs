@@ -3,5 +3,4 @@ extern crate approx;
 
 mod primitives;
 
-fn main() {
-}
+fn main() {}
